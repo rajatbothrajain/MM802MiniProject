@@ -1,10 +1,9 @@
-## MM802 Mini Project Data Visualization 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To download plotly , run this command in the terminal 
-
+## To download Plotly , open terminal and run this command
 npm install react-plotly.js plotly.js
 
 ## Available Scripts
