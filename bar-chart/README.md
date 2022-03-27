@@ -30,4 +30,4 @@ Link: https://linuxize.com/post/how-to-install-node-js-on-centos-7/
 ## Live Website Hosted on azure 
 The above project is hosted on azure platform.
 
-Website URL : https://data.edmonton.ca/Environmental-Services/Weather-Data-Daily-Environment-Canada/s4ws-tdws
+Website URL : https://green-pond-031519210.1.azurestaticapps.net/
